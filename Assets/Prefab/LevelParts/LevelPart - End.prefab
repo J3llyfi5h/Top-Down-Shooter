@@ -25734,7 +25734,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a45613ca026ae94281f677536278bae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  grenadeModel: {fileID: 0}
+  grenadeModel: {fileID: 3180818954560390598}
   corruptionCrystals: []
   corruptionAmount: 5
   colorTextures:
@@ -25759,7 +25759,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: faa2950ee4bd56748afb555994b8f4a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  missionObjectKey: {fileID: 0}
+  missionObjectKey: {fileID: 4191296548967219608}
 --- !u!114 &9156371169596406089
 MonoBehaviour:
   m_ObjectHideFlags: 0
